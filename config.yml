@@ -10,14 +10,14 @@ lang: "en"
 title: "Rockbros Links"
 
 # Avatar image path
-avatar: "./images/profile.jpeg"
+avatar: "https://tc.113119.xyz/file/AgACAgIAAyEGAAS8BEVcAAMNaWSuK4ePsdTcDDKV2eeZV_1XNyQAAngOaxtWNiFLZAw-KJbrIYkBAAMCAAN5AAM4BA.jpg"
 
 # Name section text
 name: "@ROCKBROS"
 
 # Tagline section text
 tagline: >-
-    ROCKBROS Official Store: Premium Cycling Gear for Every Adventure.
+    Rockbros Official Store: Premium Cycling Gear for Every Adventure.
 
 # 连结列表  
 # icon：使用 Font Awesome 图示 (https://fontawesome.com/search?o=r&m=free)  
@@ -45,8 +45,8 @@ socials:
   - social:
       icon: "fa-brands fa-facebook"
       url: "https://www.facebook.com/profile.php?id=61586196594209"
-      title: "FaceBook"
-      alt: "Rockbros FaceBook"
+      title: "Facebook"
+      alt: "Rockbros Facebook"
       target: "_blank"
   - social:
       icon: "fa-brands fa-instagram"
