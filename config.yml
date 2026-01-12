@@ -29,10 +29,38 @@ tagline: >-
 links:
   - link:
       icon: "fa-solid fa-globe"
-      text: "CLOTHING <span class='link-button-text'>(100+ Posts)</span>"
+      text: "CLOTHING <span class='link-button-text'>(100+ Shape)</span>"
       url: "https://rockbrosclothing.com/collections/clothing"
-      alt: "Rockbros Tech Blog"
-      title: "Rockbros Tech Blog"
+      alt: "Rockbros Clothing"
+      title: "Rockbros Clothing"
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-globe"
+      text: "HELMET <span class='link-button-text'>(20+ Shape)</span>"
+      url: "https://rockbrosclothing.com/collections/helmet"
+      alt: "Rockbros Helmet"
+      title: "Rockbros Helmet"
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-globe"
+      text: "MASK <span class='link-button-text'>(30+ Shape)</span>"
+      url: "https://rockbrosclothing.com/collections/mask"
+      alt: "Rockbros Mask"
+      title: "Rockbros Mask"
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-globe"
+      text: "EYEWEAR <span class='link-button-text'>(30+ Shape)</span>"
+      url: "https://rockbrosclothing.com/collections/eyewear"
+      alt: "Rockbros Eyewear"
+      title: "Rockbros Eyewear"
+      target: "_blank"
+  - link:
+      icon: "fa-solid fa-globe"
+      text: "GLOVES <span class='link-button-text'>(50+ Shape)</span>"
+      url: "https://rockbrosclothing.com/collections/gloves"
+      alt: "Rockbros Gloves"
+      title: "Rockbros Gloves"
       target: "_blank"
 
 # 社交媒体连结列表  
