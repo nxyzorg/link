@@ -29,10 +29,10 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-medium"
-      text: "Tech Blog <span class='link-button-text'>(100+ Posts)</span>"
-      url: "https://blog.zhgchg.li"
-      alt: "ZhgChgLi's Tech Blog"
-      title: "ZhgChgLi's Tech Blog"
+      text: "CLOTHING <span class='link-button-text'>(100+ Posts)</span>"
+      url: "https://rockbrosclothing.com/collections/clothing"
+      alt: "Rockbros Tech Blog"
+      title: "Rockbros Tech Blog"
       target: "_blank"
 
 # 社交媒体连结列表  
