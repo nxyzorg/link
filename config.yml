@@ -10,7 +10,7 @@ lang: "en"
 title: "Rockbros Links"
 
 # Avatar image path
-avatar: "https://tc.113119.xyz/file/AgACAgIAAyEGAAS8BEVcAAMNaWSuK4ePsdTcDDKV2eeZV_1XNyQAAngOaxtWNiFLZAw-KJbrIYkBAAMCAAN5AAM4BA.jpg"
+avatar: "./images/608856037_733080719855636_471930288885190498_n.jpg"
 
 # Name section text
 name: "@ROCKBROS"
@@ -28,7 +28,7 @@ tagline: >-
 # target：`_blank` 在新页签打开，`_self` 在同页面打开  
 links:
   - link:
-      icon: "fa-brands fa-medium"
+      icon: "fa-solid fa-globe"
       text: "CLOTHING <span class='link-button-text'>(100+ Posts)</span>"
       url: "https://rockbrosclothing.com/collections/clothing"
       alt: "Rockbros Tech Blog"
